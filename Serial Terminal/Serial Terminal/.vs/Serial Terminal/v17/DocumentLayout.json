@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Navid\\Desktop\\Serial Terminal\\Serial Terminal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E478DE6-1E43-4AF5-A499-CB814528BD74}|Serial Terminal\\Serial Terminal.csproj|c:\\users\\navid\\desktop\\serial terminal\\serial terminal\\serial terminal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E478DE6-1E43-4AF5-A499-CB814528BD74}|Serial Terminal\\Serial Terminal.csproj|solutionrelative:serial terminal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E478DE6-1E43-4AF5-A499-CB814528BD74}|Serial Terminal\\Serial Terminal.csproj|c:\\users\\navid\\desktop\\serial terminal\\serial terminal\\serial terminal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E478DE6-1E43-4AF5-A499-CB814528BD74}|Serial Terminal\\Serial Terminal.csproj|solutionrelative:serial terminal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E478DE6-1E43-4AF5-A499-CB814528BD74}|Serial Terminal\\Serial Terminal.csproj|c:\\users\\navid\\desktop\\serial terminal\\serial terminal\\serial terminal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E478DE6-1E43-4AF5-A499-CB814528BD74}|Serial Terminal\\Serial Terminal.csproj|solutionrelative:serial terminal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Navid\\Desktop\\Serial Terminal\\Serial Terminal\\Serial Terminal\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Serial Terminal\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Navid\\Desktop\\Serial Terminal\\Serial Terminal\\Serial Terminal\\Form1.Designer.cs",
+              "RelativeToolTip": "Serial Terminal\\Form1.Designer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAewGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:47:25.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Navid\\Desktop\\Serial Terminal\\Serial Terminal\\Serial Terminal\\Form1.cs",
+              "RelativeDocumentMoniker": "Serial Terminal\\Form1.cs",
+              "ToolTip": "C:\\Users\\Navid\\Desktop\\Serial Terminal\\Serial Terminal\\Serial Terminal\\Form1.cs",
+              "RelativeToolTip": "Serial Terminal\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:46:23.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Navid\\Desktop\\Serial Terminal\\Serial Terminal\\Serial Terminal\\Form1.cs",
+              "RelativeDocumentMoniker": "Serial Terminal\\Form1.cs",
+              "ToolTip": "C:\\Users\\Navid\\Desktop\\Serial Terminal\\Serial Terminal\\Serial Terminal\\Form1.cs [Design]",
+              "RelativeToolTip": "Serial Terminal\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:17:30.724Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
